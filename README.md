@@ -1,6 +1,6 @@
 # Iterated Function System Fractal Visualiser
 
- This simple program was originally created as part of my Bachelor's Thesis, entitled "Diseño y Programación de una Aplicación para Obtener Fractales Generados de Gistemas de Funciones Iteradas" (Design and Programming of an Application to Obtain Fractals Generated from Iterated Function Systems), available (in Spanish) here https://oa.upm.es/80524/.
+ This simple program was originally created as part of my Bachelor's Thesis, entitled "Diseño y Programación de una Aplicación para Obtener Fractales Generados de Sistemas de Funciones Iteradas" (Design and Programming of an Application to Obtain Fractals Generated from Iterated Function Systems), available (in Spanish) here https://oa.upm.es/80524/.
  
  The abstract is as follows:
  
